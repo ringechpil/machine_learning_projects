@@ -1,4 +1,4 @@
-Projects I've been working on during my ML masterclass training.
+Projects I've been working on during my ML masterclass training and while taking some online courses. 
 
 
 **Patent Abstracts RNN:** Building and training recurrent neural network which is able to generate patent abstracts in the field of 
