@@ -8,3 +8,5 @@ neural science and AI.
 
 **Haberman's Brest Cancer Prediction:** Using various classification models on a highly imbalanced dataset to pretict the outcome 
 of a brest cancer operation. 
+
+**CiFAR 10 CNN:** Building and training a simple CNN architecture for CiFAR image classification. 
