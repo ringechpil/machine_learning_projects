@@ -7,7 +7,9 @@ neural science and AI.
 **Energy Score Prediction:** Using various regression (and classification) models on a pretty messy dataset to predict the energy score of huge number of NYC housings. Here, ML models are not only used to make predictions, but to also fix some inconsistencies inherent in the dataset.
 
 **Haberman's Brest Cancer Prediction:** Using various classification models on a highly imbalanced dataset to pretict the outcome 
-of a brest cancer operation. 
+of a brest cancer operation.
+
+**LeNet Traffic Sign Classification:** Building and training a simple LeNet based CNN architecture for traffic sign image classification.
 
 **CiFAR 10 CNN:** Building and training a simple CNN architecture for CiFAR image classification. 
 
