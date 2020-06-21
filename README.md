@@ -11,4 +11,3 @@ of a brest cancer operation.
 
 **CiFAR 10 CNN:** Building and training a simple CNN architecture for CiFAR image classification. 
 
-**Spam or Ham NLP:** Uisng a natural language processing techniques and training the Multinomial Naive Bayes classificator on a set of SMS, we build a model which tries to predict whether a given SMS is spam or a regular message (ham). 
