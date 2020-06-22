@@ -9,6 +9,8 @@ neural science and AI.
 **Haberman's Brest Cancer Prediction:** Using various classification models on a highly imbalanced dataset to pretict the outcome 
 of a brest cancer operation.
 
+**Movie Recommendations with Sparse Autoencoder:** Building an autoencoder to recommend movies based on a previous movie ratings given by a user.
+
 **LeNet Traffic Sign Classification:** Building and training a simple LeNet based CNN architecture for traffic sign image classification.
 
 **CiFAR 10 CNN:** Building and training a simple CNN architecture for CiFAR image classification. 
