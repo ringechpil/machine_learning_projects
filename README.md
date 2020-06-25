@@ -11,6 +11,8 @@ of a brest cancer operation.
 
 **Movie Recommendations with Sparse Autoencoder:** Building an autoencoder to recommend movies based on a previous movie ratings given by a user.
 
+**Movie Recommendations with Restricted Boltzmann Machine:** Building a Boltzmann machine based model to recommend movies based on a previous movie ratings given by a user.
+
 **LeNet Traffic Sign Classification:** Building and training a simple LeNet based CNN architecture for traffic sign image classification.
 
 **CiFAR 10 CNN:** Building and training a simple CNN architecture for CiFAR image classification. 
