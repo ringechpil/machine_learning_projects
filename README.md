@@ -17,3 +17,5 @@ of a brest cancer operation.
 
 **CiFAR 10 CNN:** Building and training a simple CNN architecture for CiFAR image classification. 
 
+**Credit Card Fraud Detection With SOM and ANN:** Using a self-organizing map we make a model able to discern an unusal behaviour among bank customers, and target potencial credit card abuse. In addition, we train a simple artificial neural network to predict the probabilities of the abuse actually happening.
+
